@@ -3,7 +3,7 @@
 
 | Nama | NRP |
 |------|-----|
-|      |     |
+|   Mahardika Indra Pratama Ilyasa   |5054251045     |
 
 ## Cara Menjalankan Project
 1. Buat dan aktifkan virtual environment:
